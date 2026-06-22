@@ -1,5 +1,5 @@
 
-## png to jpg image converter ##
+## png to jpg image converter ## 
 # import the OpenCV Library
 import cv2
 
